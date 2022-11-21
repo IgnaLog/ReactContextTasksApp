@@ -8,7 +8,7 @@ This application consists of registering a series of tasks in a form with its ti
 
 We use [Tailwind CSS](https://tailwindcss.com/docs/installation) library to style the application.
 
-![Alt Text](https://media.giphy.com/media/iAgmjPh2yYGXWhiCT5/giphy.gif)
+![Alt Text](https://media.giphy.com/media/iAgmjPh2yYGXWhiCT5/giphy-downsized.gif)
 
 
 This app uses some modules like:
